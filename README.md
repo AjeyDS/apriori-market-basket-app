@@ -15,3 +15,4 @@ Each line = 1 transaction
 Each item = comma-separated  
 **No header required**
 
+Sample files included in repo
